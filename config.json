@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routereync",
+        "uuid": 3266989,
+        "checksum": "i60chh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
